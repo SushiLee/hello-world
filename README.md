@@ -1,3 +1,1 @@
-# hello-world
-My first repository on GitHub
-I love :computer:
+Created Ameerah Bode-Sanusi
